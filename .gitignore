@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+
+**/*.keystore
+**/*.gradle.properties
+
+ios/
+android/
